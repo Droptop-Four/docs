@@ -40,21 +40,41 @@ Can be used to return the folder name for your app (Eg. "`Sample_App-Cariboudjan
 \
 You can also use `[##MyAppID#]` to return the app's current slot number (1 to 5).
 
+{% hint style="info" %}
+This variable cannot be used in BackgroundProcesses.inc or BarModifier.
+{% endhint %}
+
 #### <mark style="color:yellow;">#MyAppName#</mark>
 
 Can be used to return the formatted name of your app (Eg. "`Sample App`")
+
+{% hint style="info" %}
+This variable cannot be used in BackgroundProcesses.inc or BarModifier.
+{% endhint %}
 
 #### <mark style="color:yellow;">#MyAppAuthor#</mark>
 
 Can be used to return the formatted name of the author (Eg. "`Cariboudjan`")
 
+{% hint style="info" %}
+This variable cannot be used in BackgroundProcesses.inc or BarModifier.
+{% endhint %}
+
 #### <mark style="color:yellow;">#MyVariablesLoc#</mark>
 
 Can be used to return the location of the Variables.inc file (Eg. "`C:\Users\%USERNAME%\Documents\Rainmeter\Skins\Droptop Community Apps\Apps\Sample_App-Cariboudjan\Variables\Variables.inc`")
 
+{% hint style="info" %}
+This variable cannot be used in BackgroundProcesses.inc or BarModifier.
+{% endhint %}
+
 #### <mark style="color:yellow;">**\[#CustomAppInstallDate\[##MyAppID#]]**</mark>
 
 Returns the date the app was installed on the user's PC in `YY.MMDD` format.
+
+{% hint style="info" %}
+This variable cannot be used in BackgroundProcesses.inc or BarModifier.
+{% endhint %}
 
 #### <mark style="color:yellow;">#DroptopSize#</mark>
 
