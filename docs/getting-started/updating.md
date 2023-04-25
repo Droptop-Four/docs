@@ -36,6 +36,4 @@ If the error persists, please let us know.
 
 Press the "Dismiss update notification" to remove the green notification icon until the next update is available, or the next time you restart your PC.
 
-Select "Don't notify me" to never show the green notification icon again. To manually check for updates, go to&#x20;
-
-We advise to keep that active, but if you want to remove it, if you need to check if a new version is available, use `Droptop settings >> Support >> Check online for an update`, or you'll need to download the update version on the [website](https://www.droptopfour.com/update/) or using the Discord bot on our [Discord Server](https://droptopfour.com/discord).&#x20;
+Select "Don't notify me" to never show the green notification icon again. To manually check for updates, go to `Droptop settings >> Support >> Check online for an update` or you can check for updates on our [Discord Server](https://droptopfour.com/discord) #Annoucements channel.
