@@ -25,7 +25,7 @@ Through the Update Notification app, if any active Community Apps have updates a
 After the download is finished, launch the .rmskin install file to complete the update.
 
 {% hint style="danger" %}
-If the Rainmeter Skin Installer raises the error: _"Unable to move: path"_, try to log out of your user, log back in, and try the installation again.
+If you receive the error _"Unable to move to: \[path]": Log out of your PC and log back in. Try the update again._
 
 <img src="../.gitbook/assets/InstallerError.png" alt="Rainmeter Skin Installer raises the error: &#x22;Unable to move: path&#x22;" data-size="original">
 
