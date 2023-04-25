@@ -38,4 +38,4 @@ If the error persists, please let us know.
 
 In the update app there is an option to remove the notifications when a new version is available.
 
-We advise to keep that active, but if you want to remove it, if you want to update Droptop you'll need to download the update version on the [website](https://www.droptopfour.com/update/) or using the Discord bot on our [Discord Server](https://droptopfour.com/discord).&#x20;
+We advise to keep that active, but if you want to remove it, if you need to check if a new version is available, use `Droptop settings >> Support >> Check online for an update`, or you'll need to download the update version on the [website](https://www.droptopfour.com/update/) or using the Discord bot on our [Discord Server](https://droptopfour.com/discord).&#x20;
