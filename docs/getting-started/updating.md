@@ -6,7 +6,7 @@ description: How to update Droptop Four
 
 ## Automatic detection
 
-Droptop Four can automatically detect when it's available a new update and it'll show the update app on the right side of the bar.
+When an update is available for Droptop, a green notification icon will automatically appear in the top bar on all PCs connected to the internet.
 
 <details>
 
@@ -19,12 +19,10 @@ Droptop Four can automatically detect when it's available a new update and it'll
 </details>
 
 {% hint style="info" %}
-The app gives you the possibility to update also Community Apps
+Through the Update Notification app, if any active Community Apps have updates available, they can be downloaded automatically by pressing "Download all updates".
 {% endhint %}
 
-If you click on the `Update Droptop to #.###.#` button, then `Download update now`, the download of the `Droptop Update.rmskin` file will start in a browser window.
-
-After the download is finished, you can install the update.
+After the download is finished, launch the .rmskin install file to complete the update.
 
 {% hint style="danger" %}
 If the Rainmeter Skin Installer raises the error: _"Unable to move: path"_, try to log out of your user, log back in, and try the installation again.
@@ -36,6 +34,8 @@ If the error persists, please let us know.
 
 ## Hiding the update notification
 
-In the update app there is an option to remove the notifications when a new version is available.
+Press the "Dismiss update notification" to remove the green notification icon until the next update is available, or the next time you restart your PC.
+
+Select "Don't notify me" to never show the green notification icon again. To manually check for updates, go to&#x20;
 
 We advise to keep that active, but if you want to remove it, if you need to check if a new version is available, use `Droptop settings >> Support >> Check online for an update`, or you'll need to download the update version on the [website](https://www.droptopfour.com/update/) or using the Discord bot on our [Discord Server](https://droptopfour.com/discord).&#x20;
