@@ -15,3 +15,7 @@
   * [BarModifier Files](make-a-community-app/parts-of-your-app/barmodifier-files.md)
   * [Settings Menu](make-a-community-app/parts-of-your-app/settings-menu.md)
 * [🏁 Compile & Share the App](make-a-community-app/compile-and-share-the-app.md)
+
+## FAQ
+
+* [Frequently Asked Questions](faq/frequently-asked-questions.md)
