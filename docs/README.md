@@ -1,19 +1,16 @@
 ---
-description: This is the documentation for Droptop Four.
+description: Find all of the information you'll need to use and develop for Droptop.
 cover: .gitbook/assets/DroptopBanner5.png
 coverY: 7
 ---
 
-# 📄 Droptop Four Documentation
+# 📄 Documentation
 
 ## Quick Links
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Droptop Four website</strong></td><td><a href="https://droptopfour.com">https://droptopfour.com</a></td><td><a href=".gitbook/assets/4Logo-L.png">4Logo-L.png</a></td></tr><tr><td><strong>Download Droptop Four</strong></td><td><a href="https://droptopfour.com/download">https://droptopfour.com/download</a></td><td><a href=".gitbook/assets/Download-L.png">Download-L.png</a></td></tr><tr><td><strong>Become a Supporter</strong></td><td><a href="https://cariboudjan.gumroad.com/l/droptop">https://cariboudjan.gumroad.com/l/droptop</a></td><td><a href=".gitbook/assets/Gumroad-L.png">Gumroad-L.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Visit the website @ Droptopfour.com</strong></td><td><a href="https://droptopfour.com">https://droptopfour.com</a></td><td><a href=".gitbook/assets/4Logo-L.png">4Logo-L.png</a></td></tr><tr><td><strong>Download on GitHub</strong></td><td><a href="https://droptopfour.com/download">https://droptopfour.com/download</a></td><td><a href=".gitbook/assets/Download-L.png">Download-L.png</a></td></tr><tr><td><strong>Upgrade to the Supporter Version through Gumroad</strong></td><td><a href="https://cariboudjan.gumroad.com/l/droptop">https://cariboudjan.gumroad.com/l/droptop</a></td><td><a href=".gitbook/assets/Gumroad-L.png">Gumroad-L.png</a></td></tr></tbody></table>
 
+## What can we assist you with?
 
+### [I want help making a Community App](broken-reference)
 
-## How can we help you?
-
-### I need help to create a community app!
-
-Then head to [Broken link](broken-reference "mention").

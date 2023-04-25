@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📄 Droptop Four Documentation](README.md)
+* [📄 Documentation](README.md)
 
 ## Make a Community App
 
