@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📄 Documentation](README.md)
+* [📄 Welcome](README.md)
 
 ## Make a Community App
 
@@ -16,6 +16,6 @@
   * [Settings Menu](make-a-community-app/parts-of-your-app/settings-menu.md)
 * [🏁 Compile & Share the App](make-a-community-app/compile-and-share-the-app.md)
 
-## FAQ
+## Help & troubleshooting <a href="#help" id="help"></a>
 
-* [Frequently Asked Questions](faq/frequently-asked-questions.md)
+* [FAQ](help/faq.md)

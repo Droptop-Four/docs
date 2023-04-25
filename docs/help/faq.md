@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+# FAQ
 
 ## I paid for the Supporter Version, but lost it.
 
