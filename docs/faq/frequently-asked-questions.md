@@ -95,9 +95,4 @@ Solution: Try...
 * &#x20;<mark style="color:green;background-color:green;">Exit and re-open Rainmeter</mark>&#x20;
   1. Right click on an empty portion of the Droptop bar. Select More options >> Restart Rainmeter.
 
-You can also try: Check your internet connection or restart your PC, and make sure your Gmail username/password is correct in the Mail app.\
-
-
-
-
-1. Check your internet connection or restart your P
+You can also try: Check your internet connection or restart your PC, and make sure your Gmail username/password is correct in the Mail app.
