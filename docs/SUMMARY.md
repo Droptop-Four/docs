@@ -2,6 +2,12 @@
 
 * [📄 Welcome](README.md)
 
+## Getting started
+
+* [⬇ Installation](getting-started/installation.md)
+* [🔼 Updating](getting-started/updating.md)
+* [🗑 Uninstalling](getting-started/uninstalling.md)
+
 ## Make a Community App
 
 * [📖 Introduction](make-a-community-app/introduction.md)
