@@ -52,7 +52,7 @@ Can be used to return the formatted name of the author (Eg. "`Cariboudjan`")
 
 Can be used to return the location of the Variables.inc file (Eg. "`C:\Users\%USERNAME%\Documents\Rainmeter\Skins\Droptop Community Apps\Apps\Sample_App-Cariboudjan\Variables\Variables.inc`")
 
-#### <mark style="color:yellow;">**\[#CustomAppInstallDate\[#MyAppID]]**</mark>
+#### <mark style="color:yellow;">**\[#CustomAppInstallDate\[##MyAppID#]]**</mark>
 
 Returns the date the app was installed on the user's PC in `YY.MMDD` format.
 
