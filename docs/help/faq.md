@@ -44,17 +44,27 @@ Solution:
 
 Solution: Try...
 
-* &#x20;<mark style="color:green;background-color:green;">Enable Hardware Acceleration</mark>&#x20;
+*   &#x20;<mark style="color:green;background-color:green;">Enable Hardware Acceleration</mark>&#x20;
+
+    1. Right-click on the Rainmeter icon in the Windows system tray (it's rain drop shaped)
+    2. Select "Manage"
+    3. Select the "Settings" tab
+    4. Check box "Use hardware acceleration (Requires restart)"
+    5. Right click on an empty portion of the Droptop bar. Select More options >> Restart Rainmeter.
+
+    Note: Some PCs may have issues with hardware acceleration turned on, including slower performance and graphical glitches. If these occur, disable hardware acceleration.
+*   &#x20;<mark style="color:green;background-color:green;">Disable "Use heavy blur"</mark>&#x20;
+
+    1. Go to Droptop settings >> Options >> Blur effects
+    2. Disable "Use heavy blur effect">
+    3. Note: This setting is theme-specific. You may need to re-disable this setting if you switch to another theme.
+
+    Note: Some PCs may have issues with hardware acceleration turned on, including slower performance and graphical glitches. If these occur, disable hardware acceleration.
+* &#x20;<mark style="color:green;background-color:green;">Disable "Log to file"</mark>&#x20;
   1. Right-click on the Rainmeter icon in the Windows system tray (it's rain drop shaped)
   2. Select "Manage"
-  3. Select the Settings tab
-  4. Check box "Use hardware acceleration (Requires restart)"
-  5. Right click on an empty portion of the Droptop bar. Select More options >> Restart Rainmeter.
-  6. Note: Some PCs may have issues with hardware acceleration turned on, including slower performance and graphical glitches. If these occur, disable hardware acceleration.
-* &#x20;<mark style="color:green;background-color:green;">Disable "Use heavy blur"</mark>&#x20;
-  1. Go to Droptop settings >> Options >> Blur effects
-  2. Disable "Use heavy blur effect">
-  3. Note: This setting is theme-specific. You may need to re-disable this setting if you switch to another theme.
+  3. Select the "Settings" tab
+  4. Deselect "Log to file"
 
 ## How do I optimize Droptop for good battery life?
 
