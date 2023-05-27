@@ -98,11 +98,13 @@ If you are on Windows 11 and you have a non-English date format the plugin might
 
 ## My weather, browser media, or email aren't updating
 
-<mark style="color:yellow;">**Problem:**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">The webparser isn't retrieving data</mark>
+<mark style="color:yellow;">**Problem:**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">The webparser or plugins aren't retrieving data</mark>
 
 Solution: Try...
 
 * &#x20;<mark style="color:green;background-color:green;">Exit and re-open Rainmeter</mark>&#x20;
   1. Right click on an empty portion of the Droptop bar. Select More options >> Restart Rainmeter.
+* &#x20;<mark style="color:green;background-color:green;">Install the latest version of WebNowPlaying extension for your browser</mark>&#x20;
+  1. After Droptop version 4.320.0, all media control is handled by the WebNowPlaying browser extension. If you have an older version of the extension, you'll need to navigate to your browser extensions and make sure it's running the latest version.
 
 You can also try: Check your internet connection or restart your PC, and make sure your Gmail username/password is correct in the Mail app.
