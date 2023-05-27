@@ -64,7 +64,7 @@ Solution: Try...
   1. Right-click on the Rainmeter icon in the Windows system tray (it's rain drop shaped)
   2. Select "Manage"
   3. Select the "Settings" tab
-  4. Deselect "Log to file"
+  4. De-select "Log to file"
 
 ## How do I optimize Droptop for good battery life?
 
