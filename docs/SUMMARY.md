@@ -22,6 +22,10 @@
   * [Settings Menu](make-a-community-app/parts-of-your-app/settings-menu.md)
 * [🏁 Compile & Share the App](make-a-community-app/compile-and-share-the-app.md)
 
+## Tips and Tricks <a href="#tips-and-trics" id="tips-and-trics"></a>
+
+* [✍ Rainmeter editor](tips-and-trics/rainmeter-editor.md)
+
 ## Help & troubleshooting <a href="#help" id="help"></a>
 
 * [FAQ](help/faq.md)

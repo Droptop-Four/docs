@@ -1,20 +1,8 @@
 # ✨ Start making a new app
 
-## Install Notepad++
-
-It's recommended you install an application such as Notepad++ for creating your skin. You can download Notepad++ from its official website here: [https://notepad-plus-plus.org/downloads/](https://notepad-plus-plus.org/downloads/). Set Notepad++ as your official editor for Rainmeter by following these steps:&#x20;
-
-1. In the system tray, right-click on the Rainmeter icon
-2. Select `Manage`
-3. Go to the `Settings` tab
-4. Next to `Editor`, select the `...` button (Image 1)
-5. Navigating to the Notepad++ executable in `C:\Program Files\Notepad++\notepad++.exe`
-6. It's also recommended you install the addon for Notepad++ called RainLexer. [https://poiru.github.io/rainlexer/](https://poiru.github.io/rainlexer/)
-7. Restart Notepad++ and in the Notepad++ menu bar, go to `Language` and select `Rainmeter`(Image 2)
-
-<figure><img src="../.gitbook/assets/Annotation 2023-04-24 074059 (1).png" alt=""><figcaption><p>Image 1</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Annotation 2023-04-24 074130.png" alt=""><figcaption><p>Image 2</p></figcaption></figure>
+{% hint style="info" %}
+If you don't know what editor to use, take a look at the [rainmeter-editor.md](../tips-and-trics/rainmeter-editor.md "mention") page.
+{% endhint %}
 
 ## Create a new app
 

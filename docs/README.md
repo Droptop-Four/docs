@@ -4,7 +4,7 @@ cover: .gitbook/assets/DroptopBanner5.png
 coverY: 7
 ---
 
-# 📄 Welcome
+# 👋 Welcome
 
 ## Quick Links
 
