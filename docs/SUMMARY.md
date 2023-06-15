@@ -28,4 +28,4 @@
 
 ## Help & troubleshooting <a href="#help" id="help"></a>
 
-* [FAQ](help/faq.md)
+* [❓ FAQs](help/faqs.md)
