@@ -6,11 +6,13 @@ Droptop can scale anywhere between 80% to 250% of its original size. In order fo
 
 Included meters, such as the dropdown menu, items, and default text and shapes all automatically scale with Droptop - Only meters you create will need to include the `#DroptopSize#` variable.
 
-## Using the #DroptopSize# variable, Examples
+## Using the `#DroptopSize#` variable, Examples
 
 The value of `DroptopSize` is equal to 1 at 100%, 0.8 at 80%, 1.5 at 150%, and 2.5 at 250%. If you are creating an app for the first time, it's recommended that you build your app with Droptop set to 100% scale - This way you can add the `#DroptopSize#` variable to your Meters later on in the development process.
 
-#### Example 1A - Without scaling
+## Example 1
+
+### Example 1A - Without scaling
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```ini
@@ -25,7 +27,7 @@ Padding=5,0,5,0
 ```
 {% endcode %}
 
-#### Example 1B - With scaling
+### Example 1B - With scaling
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```ini
@@ -40,13 +42,15 @@ Padding=(5*#DroptopSize#),0,(5*#DroptopSize#),0
 ```
 {% endcode %}
 
-## Let's review Example 1
+### Let's review
 
 In the above example, we multiplied `FontSize`, `X`, `Y`, and `Padding` by `#DroptopSize#`. We did not multiply `#DropdownMenuWidth#` or `#DropdownItemHeight#` because these variables already scale automatically with Droptop. In padding, we only multiplied the sections of padding containing a value - We do not need to scale a value if it equals 0.
 
 Let's try another example...
 
-#### Example 2A - Without scaling
+## Example 2
+
+### Example 2A - Without scaling
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```ini
@@ -60,7 +64,7 @@ H=100
 ```
 {% endcode %}
 
-#### Example 2B - With scaling
+### Example 2B - With scaling
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```ini
@@ -74,6 +78,6 @@ H=(100*#DroptopSize#)
 ```
 {% endcode %}
 
-## Let's review Example 2
+### Let's review
 
 In the above example, we set the X position to match the X position of `StringMeter` and the Y position to match the Y plus its Height of `StringMeter` - These do not need to be scaled as the `X`, `Y`, and `H` of `StringMeter` are already scaled. But the 5 in the `Y` parameter does need to be scaled. We also scaled the Meter's Width and Height.

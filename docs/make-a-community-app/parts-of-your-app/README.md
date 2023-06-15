@@ -1,8 +1,8 @@
 # ⭐ Parts of your app
 
-## There are a few key components of any app
+There are a few key components of any app
 
-### The main config
+## The main config
 
 The main portion of your app is the first dropdown to appear when your app is clicked on. `CustomApp.ini` and `MainConfig.inc` handle this portion of the app.
 
@@ -10,7 +10,7 @@ In the main section of your app's folder you will also find the Icons folder. In
 
 **Note:** All icons should be white (255,255,255 or FFFFFF) in color and be 32x32 sized .png images.
 
-### Submenus
+## Submenus
 
 Inside your app's folder is a folder aptly titled "`Folder`". Inside you will have `Folder1.ini` to `Folder10.ini`. `Folder1.ini` will be accessible when `ItemIsFolder1` in `CustomApp.ini` is equal to 1. `Folder2.ini` will be accessible when `ItemIsFolder2` in `CustomApp.ini` is equal to 1. etc.
 
@@ -22,18 +22,18 @@ Icons for each submenu are located in the `Folder\Icons\` folder, with each numb
 
 **Note:** All icons should be white (255,255,255 or FFFFFF) in color and be 32x32 sized .png images.
 
-### Variables
+## Variables
 
 For more information about Variables, see the **Variables Files** section of this tutorial.
 
-### Background Processes
+## Background Processes
 
 For more information about Variables, see the **Background Processes** section of this tutorial.
 
-### Settings menu
+## Settings menu
 
 For more information about Variables, see the **Settings Menu** section of this tutorial.
 
-### Other parts
+## Other parts
 
 For more information about Variables, see the **Other Parts** section of this tutorial.
