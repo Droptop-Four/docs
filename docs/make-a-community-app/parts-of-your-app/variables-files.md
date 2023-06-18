@@ -16,7 +16,7 @@ After this occurs, `VariablesDefault.inc` acts only as a backup to restore the a
 
 ### Variables.inc
 
-The `Variables.inc` will be created automatically when the user installs your app for the first time. It is created as a copy of the `VariablesDefault.inc` file. All `[!WriteKeyValue]` bangs should be written to this file. Although both `VariablesDefault.inc` and `Variables.inc` both contain identical variables, the `Variables.inc` values will always display in your app.
+The `Variables.inc` will be created automatically when the user installs your app for the first time. It is created as a copy of the `VariablesDefault.inc` file. All `[!WriteKeyValue]` bangs should be written to this file. Although both `VariablesDefault.inc` and `Variables.inc` both contain identical variables, the `Variables.inc` values will always supersede (take precedence) over the values in `VariablesDefault.inc`.
 
 Variables in this file will exist inside of your app and all of its submenus, its settings menu, and inside of the Droptop bar and `BackgroundProcesses.ini`.
 
