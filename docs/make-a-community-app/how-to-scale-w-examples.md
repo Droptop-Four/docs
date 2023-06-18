@@ -2,13 +2,13 @@
 
 ## How to scale your app with the Size setting
 
-Droptop can scale anywhere between 80% to 250% of its original size. In order for your app's meters to be position on their X/Y axis and to be the correct Width/Height regardless of the scale Droptop is set to, you will need to include the `#DroptopSize#` variable in all X/Y and W/H parameters for each meter you create, as well as anything that has to do with a Meter's size, such as a string's `FontSize` parameter, padding, etc.
+Droptop can scale anywhere between 80% to 300% of its original size. In order for your app's meters to be position on their X/Y axis and to be the correct Width/Height regardless of the scale Droptop is set to, you will need to include the `#DroptopSize#` variable in all X/Y and W/H parameters for each meter you create, as well as anything that has to do with a Meter's size, such as a string's `FontSize` parameter, padding, etc.
 
 Included meters, such as the dropdown menu, items, and default text and shapes all automatically scale with Droptop - Only meters you create will need to include the `#DroptopSize#` variable.
 
 ## Using the `#DroptopSize#` variable, Examples
 
-The value of `DroptopSize` is equal to 1 at 100%, 0.8 at 80%, 1.5 at 150%, and 2.5 at 250%. If you are creating an app for the first time, it's recommended that you build your app with Droptop set to 100% scale - This way you can add the `#DroptopSize#` variable to your Meters later on in the development process.
+The value of `DroptopSize` is equal to 1.0 at 100%, 0.8 at 80%, 1.5 at 150%, and 3.0 at 300%. If you are creating an app for the first time, it's recommended that you build your app with Droptop set to 100% scale - This way you can add the `#DroptopSize#` variable to your Meters later on in the development process.
 
 ## Example 1
 
