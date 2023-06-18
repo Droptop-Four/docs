@@ -6,11 +6,11 @@ description: Find the most frequently asked questions for Dropto
 
 ## I paid for the Supporter Version, but lost it.
 
-<mark style="color:red;">**Problem:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Need to restore Supporter Version purchase.</mark>
+<mark style="color:yellow;">**Problem:**</mark> Need to restore Supporter Version purchase.
 
 {% tabs %}
 {% tab title="Solution" %}
-&#x20;<mark style="color:green;">**Check your email for the download link**</mark>&#x20;
+&#x20;<mark style="color:yellow;">**Check your email for the download link**</mark>&#x20;
 
 1. Go to your email provider (Gmail, Outlook, etc.)
 2. Search your inbox for "Droptop" or "Gumroad", and see if you have a download link
@@ -24,27 +24,23 @@ Note: Droptop's core (basic version) needs to be installed prior to applying the
 
 ## I can't install the update
 
-<mark style="color:red;">**Problem:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Receiving an error when installing the update</mark>
+<mark style="color:yellow;">**Problem:**</mark> Receiving an error when installing the update
 
 <figure><img src="../.gitbook/assets/InstallerError.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Solution 1" %}
-<mark style="color:green;">**Log off of your Windows accout and log back in**</mark>
-{% endtab %}
-
-{% tab title="Solution 2" %}
-<mark style="color:green;">**Re-run the install file**</mark>
+<mark style="color:yellow;">**Close any programs that may be accessing any files inside Droptop, and try the installer again. If this doesn't solve the problem, simply log off of your Windows account, log back in, and try the installer again.**</mark>
 {% endtab %}
 {% endtabs %}
 
 ## I want to change the name of an application in the bar
 
-<mark style="color:red;">**Problem:**</mark> <mark style="color:red;"></mark><mark style="color:red;">An application I'm using isn't the name I want displayed on the bar</mark>
+<mark style="color:yellow;">**Problem:**</mark> An application I'm using isn't the name I want displayed on the bar
 
 {% tabs %}
 {% tab title="Solution" %}
-<mark style="color:green;">**Create your own substitution**</mark>
+<mark style="color:yellow;">**Create your own substitution**</mark>
 
 1. To add your own substitution, with the app selected, click on the application's name in the Droptop bar
 2. In the dropdown menu, select "More options", then "Change app name".
@@ -64,13 +60,13 @@ Must be exact words and is case-sensitive
 
 ## Droptop is running slowly
 
-<mark style="color:red;">**Problem:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Droptop is slow</mark>
+<mark style="color:yellow;">**Problem:**</mark> Droptop is slow
 
 Solution: Try...
 
 {% tabs %}
 {% tab title="Solution 1" %}
-<mark style="color:green;">**Enable Hardware Acceleration**</mark>
+<mark style="color:yellow;">**Enable Hardware Acceleration**</mark>
 
 1. Right-click on the Rainmeter icon in the Windows system tray (it's rain drop shaped)
 2. Select "Manage"
@@ -84,7 +80,7 @@ Some PCs may have issues with hardware acceleration turned on, including slower 
 {% endtab %}
 
 {% tab title="Solution 2" %}
-<mark style="color:green;">**Disable**</mark><mark style="color:green;">** **</mark><mark style="color:green;">**`Use heavy blur`**</mark>
+<mark style="color:yellow;">**Disable**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**`Use heavy blur`**</mark>
 
 1. Go to Droptop settings >> Options >> Blur effects
 2. Disable "Use heavy blur effect">
@@ -96,7 +92,7 @@ Some PCs may have issues with hardware acceleration turned on, including slower 
 {% endtab %}
 
 {% tab title="Solution 3" %}
-<mark style="color:green;">**Disable**</mark><mark style="color:green;">** **</mark><mark style="color:green;">**`Log to file`**</mark>
+<mark style="color:yellow;">**Disable**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**`Log to file`**</mark>
 
 1. Right-click on the Rainmeter icon in the Windows system tray (it's rain drop shaped)
 2. Select `Manage`
@@ -111,18 +107,18 @@ Some PCs may have issues with hardware acceleration turned on, including slower 
 Although Droptop uses very few resources when sitting idle in the background, you may want to optimize Droptop for extended laptop battery life. Here are some solutions:
 {% endhint %}
 
-<mark style="color:red;">**Problem:**</mark> <mark style="color:red;"></mark><mark style="color:red;">I need to maximize my battery life</mark>
+<mark style="color:yellow;">**Problem:**</mark> I need to maximize my battery life
 
 {% tabs %}
 {% tab title="Solution 1" %}
-<mark style="color:green;">**Disable unused system tray apps**</mark>
+<mark style="color:yellow;">**Disable unused system tray apps**</mark>
 
 1. Right-click on a system tray app in the top-right corner
 2. De-select any apps you don't frequently use. Apps can be re-enabled later at any time.
 {% endtab %}
 
 {% tab title="Solution 2" %}
-<mark style="color:green;">**Enable**</mark><mark style="color:green;">** **</mark><mark style="color:green;">**`Game mode`**</mark>
+<mark style="color:yellow;">**Enable**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**`Game mode`**</mark>
 
 1. When not using Droptop for an extended period of time, you can go to the Windows system tray, right-click on the Rainmeter icon (the rain drop icon), and select "Game mode". Droptop will deactivate completely
 2. To reactivate Droptop, de-select the "Game mode" option.
@@ -131,15 +127,15 @@ Although Droptop uses very few resources when sitting idle in the background, yo
 
 ## My Music & videos aren't showing up in the Volume app or on the top bar
 
-<mark style="color:red;">**Problem:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Not displaying song title & artist in the Volume app</mark>
+<mark style="color:yellow;">**Problem:**</mark> Not displaying song title & artist in the Volume app
 
 {% tabs %}
 {% tab title="Solution 1" %}
-<mark style="color:green;">**Install the latest version of WNPRedux for your players**</mark>
+<mark style="color:yellow;">**Install the latest version of WNPRedux for your players**</mark>
 
 * **Chrome**: [Chrome Web Store](https://chrome.google.com/webstore/detail/webnowplaying-redux/jfakgfcdgpghbbefmdfjkbdlibjgnbli)
 * **Firefox**: [Mozilla Addon Store](https://addons.mozilla.org/en-US/firefox/addon/webnowplaying-redux)
-* **Desktop players**:  works out of the box
+* **Desktop players**:  Works out of the box
 
 {% hint style="info" %}
 Spotify doesn't need anymore Spicetify to work with Rainmeter, as long you have installed a version of the WNP plugin > 2.0.0
@@ -151,45 +147,45 @@ For further informations about supported players and websites visit [https://git
 {% endtab %}
 
 {% tab title="Solution 2" %}
-<mark style="color:green;">**Restart Rainmeter or restart your PC**</mark>
+<mark style="color:yellow;">**Restart Rainmeter or restart your PC.**</mark>
 {% endtab %}
 {% endtabs %}
 
 ## My weather, browser media, or email aren't updating
 
-<mark style="color:red;">**Problem:**</mark> <mark style="color:red;"></mark><mark style="color:red;">The webparser or plugins aren't retrieving data</mark>
+<mark style="color:yellow;">**Problem:**</mark> The webparser or plugins aren't retrieving data
 
 {% tabs %}
 {% tab title="Solution 1" %}
-<mark style="color:green;">**Exit and re-open Rainmeter**</mark>
+<mark style="color:yellow;">**Exit and re-open Rainmeter**</mark>
 
-1. Right click on an empty portion of the Droptop bar. Select More options >> Restart Rainmeter.
+1. Go to the Droptop "Home" button in the top-left corner >> select `Restart Rainmeter` >> Restart Rainmeter now
 {% endtab %}
 
 {% tab title="Solution 2" %}
-<mark style="color:green;">**Check your internet connection or restart your PC**</mark>
+<mark style="color:yellow;">**Check your internet connection and/or restart your PC.**</mark>
 {% endtab %}
 {% endtabs %}
 
 ## Gmail isn't working
 
-<mark style="color:red;">**Problem**</mark><mark style="color:red;">: Mails aren't appearing in the Gmail app</mark>
+<mark style="color:yellow;">**Problem**</mark><mark style="color:yellow;">:</mark> Unread email isn't appearing in the Gmail app
 
 {% tabs %}
 {% tab title="Solution 1" %}
-<mark style="color:green;">**Using 2-Step Verification? Create an app password for use with Rainmeter & Droptop**</mark>
+<mark style="color:yellow;">**Using 2-Step Verification? Create an app password for use with Rainmeter & Droptop**</mark>
 
 1. In Security settings of your Gmail account, navigate to "App passwords"
 2. Under the "App" dropdown menu, select "Other"
 3. Type "Droptop" and press enter
 4. Google will generate a password for you. Copy the password
-5. In `Droptop settings >> Options >> Apps >> Mail` menu, paste the password into the password field
+5. In `Droptop settings >> Options >> Apps >> Mail` menu, paste the password into the password field and press enter
 {% endtab %}
 
 {% tab title="Solution 2" %}
-<mark style="color:green;">**Check your Gmail account settings**</mark>
+<mark style="color:yellow;">**Check your Gmail account settings**</mark>
 
-1. In the `Droptop settings >> Options >> Apps >> Mail` menu, set your Gmail username and password
+1. In the `Droptop settings >> Options >> Apps >> Mail` menu, set your Gmail username and paste the app password provided in Solution
 2. Press enter to confirm your entry after typing
 {% endtab %}
 {% endtabs %}
