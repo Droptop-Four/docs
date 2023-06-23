@@ -1,7 +1,7 @@
 # ✨ Start making a new app
 
 {% hint style="info" %}
-If you don't know what editor to use, take a look at the [rainmeter-editor.md](../tips-and-trics/rainmeter-editor.md "mention") page.
+If you don't know what editor to use, take a look at the [editor.md](../tips/editor.md "mention") page.
 {% endhint %}
 
 ## Create a new app

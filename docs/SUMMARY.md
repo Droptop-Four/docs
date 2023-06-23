@@ -28,31 +28,31 @@
   * [See all community apps](https://www.droptopfour.com/community-apps/)
 * [🌍 Languages](setting-up/languages.md)
 
-## Make Custom App Commands
+## Make Custom App Commands <a href="#app-commands" id="app-commands"></a>
 
-* [🔅 Create custom app commands](make-custom-app-commands/create-custom-app-commands.md)
+* [🔅 Create custom app commands](app-commands/create-custom-app-commands.md)
 
-## Make a Community App
+## Make a Community App <a href="#community-apps" id="community-apps"></a>
 
-* [📖 Introduction](make-a-community-app/introduction.md)
-* [✨ Start making a new app](make-a-community-app/start-making-a-new-app.md)
-* [🔢 Variables](make-a-community-app/variables.md)
-* [↕ How to Scale w/ Examples](make-a-community-app/how-to-scale-w-examples.md)
-* [⭐ Parts of your app](make-a-community-app/parts-of-your-app/README.md)
-  * [Dividers](make-a-community-app/parts-of-your-app/dividers.md)
-  * [Variables Files](make-a-community-app/parts-of-your-app/variables-files.md)
-  * [Background Processes](make-a-community-app/parts-of-your-app/background-processes.md)
-  * [BarModifier Files](make-a-community-app/parts-of-your-app/barmodifier-files.md)
-  * [Settings Menu](make-a-community-app/parts-of-your-app/settings-menu.md)
-* [🏁 Compile & Share the App](make-a-community-app/compile-and-share-the-app.md)
+* [📖 Introduction](community-apps/introduction.md)
+* [✨ Start making a new app](community-apps/start-making-a-new-app.md)
+* [🔢 Variables](community-apps/variables.md)
+* [↕ How to Scale w/ Examples](community-apps/how-to-scale-w-examples.md)
+* [⭐ Parts of your app](community-apps/parts-of-your-app/README.md)
+  * [Dividers](community-apps/parts-of-your-app/dividers.md)
+  * [Variables Files](community-apps/parts-of-your-app/variables-files.md)
+  * [Background Processes](community-apps/parts-of-your-app/background-processes.md)
+  * [BarModifier Files](community-apps/parts-of-your-app/barmodifier-files.md)
+  * [Settings Menu](community-apps/parts-of-your-app/settings-menu.md)
+* [🏁 Compile & Share the App](community-apps/compile-and-share-the-app.md)
 
-## Make a Community Theme
+## Make a Community Theme <a href="#community-themes" id="community-themes"></a>
 
-* [Coming soon](make-a-community-theme/coming-soon.md)
+* [Coming soon](community-themes/coming-soon.md)
 
-## Tips and Tricks <a href="#tips-and-trics" id="tips-and-trics"></a>
+## Tips and Tricks <a href="#tips" id="tips"></a>
 
-* [✍ Rainmeter editor](tips-and-trics/rainmeter-editor.md)
+* [✍ Rainmeter editor](tips/editor.md)
 
 ## Help & troubleshooting <a href="#help" id="help"></a>
 

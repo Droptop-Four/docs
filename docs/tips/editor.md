@@ -8,9 +8,9 @@ It's recommended you install an **advanced editor** instead of using the Windows
 
 The two editors we recommend are:
 
-[#notepad++](rainmeter-editor.md#notepad++ "mention")
+[#notepad++](editor.md#notepad++ "mention")
 
-[#visual-studio-code](rainmeter-editor.md#visual-studio-code "mention")
+[#visual-studio-code](editor.md#visual-studio-code "mention")
 
 
 
