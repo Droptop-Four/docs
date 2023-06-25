@@ -4,9 +4,6 @@ description: Droptop Four folder options
 
 # General folders options
 
-* show application menu
-* show app commands
-
 ## Middle click behaviour
 
 You can chose the action to perform when middle-clicking on an item of a folder. Go to `Droptop settings >> Options >> Menu options >> Middle-clicking on folder items...` and change the selected option.
@@ -54,3 +51,9 @@ if you want to show your application commands on your bar to be easy accessible,
 {% hint style="info" %}
 If you want to know how to create your custom app commands, head to [Broken link](broken-reference "mention")
 {% endhint %}
+
+## Add shortcut to a folder
+
+If you want to add an app to a droptop folder, open the app, click on the app name and select the `Add shortcut to` button, then select the folder you want to have the shortcut in, and you're done!&#x20;
+
+Else you can drag & drop files and folders opening the `Documents\Rainmeter\Skins\Droptop Folders` directory, choosing the folder you want to add what you want to, and refreshing droptop.
