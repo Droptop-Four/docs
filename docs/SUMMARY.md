@@ -44,7 +44,8 @@
   * [Background Processes](community-apps/parts-of-your-app/background-processes.md)
   * [BarModifier Files](community-apps/parts-of-your-app/barmodifier-files.md)
   * [Settings Menu](community-apps/parts-of-your-app/settings-menu.md)
-* [🏁 Compile & Share the App](community-apps/compile-and-share-the-app.md)
+* [🏁 Compile & Share the App](community-apps/compile-and-share-the-app/README.md)
+  * [README](community-apps/compile-and-share-the-app/readme.md)
 
 ## Make a Community Theme <a href="#community-themes" id="community-themes"></a>
 
