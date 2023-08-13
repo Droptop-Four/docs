@@ -18,4 +18,4 @@ If you want to change the droptop language, you have to go in `Droptop settings 
 
 ## Contribute to the translations
 
-If you want to contribute to the translation of droptop, head to [https://internal.droptopfour.com/localization/translator-infos#contribute](https://internal.droptopfour.com/localization/translator-infos#contribute) and follow the guide.&#x20;
+If you want to contribute to the translation of droptop, head to [https://contribute.droptopfour.com/localization/translator-infos#contribute](http://127.0.0.1:5000/s/A3goLxThb2hRzP3n7Xkr/localization/translator-infos#contribute) and follow the guide.&#x20;
