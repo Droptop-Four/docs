@@ -41,7 +41,7 @@ You can download **VSCode** from its official website here:[ ](https://code.visu
 2. Select `Manage`
 3. Go to the `Settings` tab
 4. Next to `Editor`, select the `...` button
-5. Navigating to the Notepad++ executable in `C:\Program Files\Notepad++\notepad++.exe` _(The installation path could change from user to user)_
+5. Navigating to the VSCode executable in `C:\Program Files\Microsoft VS Code\Code.exe` _(The installation path could change from user to user)_
 
 <figure><img src="../.gitbook/assets/VSCode_default_editor.png" alt=""><figcaption><p>Enable <strong>VSCode</strong> as default Rainmeter editor</p></figcaption></figure>
 
