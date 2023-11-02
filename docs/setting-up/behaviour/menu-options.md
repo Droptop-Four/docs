@@ -16,6 +16,10 @@ If you have a very wide screen, the lenght of the droptop bar can be quite annoy
 
 <figure><img src="../../.gitbook/assets/BarCentering.png" alt=""><figcaption><p>Screenshot by ChiefPoko</p></figcaption></figure>
 
+## Fade effect when opening menus
+
+WIth the `Droptop settings >> Options >> Menu options >> Fade effect when opening menus` option, you can toggle e nicer transition when opening menus.
+
 ## Accessibility in fullscreen apps
 
 If you have a fullscreen window, droptop won't show on top of the open window. If you want to have access to droptop when using a fullscreen window, enable `Droptop settings >> Options >> Menu options >> Accessibility in fullscreen apps`.&#x20;

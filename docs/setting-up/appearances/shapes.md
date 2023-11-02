@@ -6,7 +6,7 @@ description: Change Droptop Four shapes
 
 ## Rounded corners
 
-You can set the corners of the bar and of the dropdown menus to be rounded or squared. Just use the `Droptop settings >> Options >> Shape >> Rounded top bar corners` and `Droptop settings >> Options >> Shape >> Rounded top bar corners` options.&#x20;
+You can set the corners of the bar and of the dropdown menus to be rounded or squared. Just use the `Droptop settings >> Options >> Shape >> Rounded top bar corners` and `Droptop settings >> Options >> Shape >> Rounded menu corners` options.&#x20;
 
 ## Skewed shape
 

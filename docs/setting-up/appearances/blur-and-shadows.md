@@ -16,6 +16,6 @@ Sometime the heavy blur option can create some visual problems.
 
 ## Shadows
 
-You can use the shadow options (`Droptop settings >> Options >> Shadows`) to toggle the shadows on the various components of the top bar and of the dropdown menus.
+You can use the shadow options (`Droptop settings >> Options >> Shadows`) to toggle the shadows on the various components of the top bar and of the dropdown menus (text, highlights, components).
 
 You can also set a gradient fade on the top bar: `Droptop settings >> Options >> Shadows >> Gradient fade on top bar`.
