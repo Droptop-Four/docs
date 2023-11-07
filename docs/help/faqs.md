@@ -1,5 +1,5 @@
 ---
-description: Find the most frequently asked questions for Dropto
+description: Find the most frequently asked questions for Droptop
 ---
 
 # ❓ FAQs
