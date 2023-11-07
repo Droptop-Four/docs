@@ -189,3 +189,21 @@ For further informations about supported players and websites visit [https://git
 2. Press enter to confirm your entry after typing
 {% endtab %}
 {% endtabs %}
+
+## My game detects a violation
+
+<mark style="color:yellow;">**Problem:**</mark> My game doesn't start cause it detects a security violation
+
+
+
+{% tabs %}
+{% tab title="Solution 1" %}
+<mark style="color:yellow;">**Use Rainmeter Gamemode**</mark>
+
+Take a look at the documentation for the [Rainmeter Gamemode](https://docs.rainmeter.net/manual/user-interface/manage/#GameModeTab), and configure it the way you like
+
+{% embed url="https://docs.rainmeter.net/manual/user-interface/manage/#GameModeTab" %}
+Rainmeter Gamemode documentation
+{% endembed %}
+{% endtab %}
+{% endtabs %}
