@@ -10,10 +10,6 @@ When an update is available for Droptop, a green notification icon will automati
 
 <figure><img src="../.gitbook/assets/UpdateApp.png" alt="" width="375"><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Through the Update Notification app, if any active Community Apps have updates available, they can be downloaded automatically by pressing `Download all updates"`
-{% endhint %}
-
 After the download is finished, launch the `.rmskin` install file to complete the update.
 
 {% hint style="danger" %}
