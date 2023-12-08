@@ -7,27 +7,18 @@ If you don't know what editor to use, take a look at the [editor.md](../tips/edi
 ## Create a new app
 
 1. Start off by going `Droptop settings >> Community apps >> Create new app`
-2. Choose a name for your app and the author's name, pressing `Enter` to confirm your entry
-3. Select `Choose an icon for your app`. Select a .png image of your choice, preferably 32x32 pixels. This icon is what will appear in the bar
-4. Select `Generate app`
-
-## Duplicate an existing app (Optional)
-
-If you want to make your own app, but base it off the work someone else has already done, follow these steps:
-
-1. Download & install that app on your PC
-2. Navigate to `C:\Users\%USERNAME%\Documents\Rainmeter\Skins\Droptop Community Apps\Apps\`
-3. Copy & paste the app you want to duplicate so there are two folders for that app
-4. Rename the copy to the name of your new app in this format: `App_Name-Your_Name`
-5. Go to `App_Name-Your_Name\Variables\` and in Variables.inc and VariablesDefault.inc, change the value of `MyAppID`, `MyAppName`, `MyAppAuthor`, and `MyVariablesLoc` to replace any references to the old app name with the new app name. Save the file.
-6. Refresh Rainmeter
-7. Navigate to `Droptop settings >> Community apps`
-8. Select your app in one of the five available Community App slots
-9. Your app will now be editable in Droptop and will appear in the bar
+2. A window will open. Select between "Droptop app" or "WebView app".&#x20;
+   1. A "Droptop app" is for creating an app using Rainmeter code, and can either be a simple button in the bar that launches a shortcut, or expands into a dropdown menu with various options when clicked.
+   2. A "WebView app" is for displaying a website of your choice in a dropdown menu.
+3. Choose a name for your app and the author's name, pressing `Enter` to confirm your entry
+4. Select `Choose an icon for your app`. Select a .png image of your choice, preferably 32x32 pixels. This icon is what will appear in the bar. You can find icons for your app at flaticon.com, or you can make your own.
+5. If "Droptop app" was selected, two options are available; "App has a dropdown menu" or "App is just a button". Select an option based on the type of app you want to make.
+6. Use the option "Use full color icon" if you want the icon in the bar to always be the same color as the image uploaded - Otherwise, the color of the icon will follow the user's current theme and color settings.
+7. Select `Generate app`when ready.
 
 ## Editing your new app
 
-1. Your new app will now appear in the bar. Click on the icon and your app will appear. If you created an app from scratch, this will contain some sample text and icons.
+1. Your new app will now appear in the bar. If you selected "WebView app" or "Droptop app" with "App has a dropdown menu" enabled, clicking on the app icon will open your app.
 2. Right-click twice (Double right-click) anywhere inside of your app to open a quick navigation box. Here you can access the essential files and folders that make-up your app. Select `Edit skin (Custom app.ini)`
 3. The code for your app's main dropdown menu will appear.
 
