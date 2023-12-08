@@ -42,7 +42,7 @@
   * [Dividers](community-apps/parts-of-your-app/dividers.md)
   * [Variables Files](community-apps/parts-of-your-app/variables-files.md)
   * [Background Processes](community-apps/parts-of-your-app/background-processes.md)
-  * [BarModifier Files](community-apps/parts-of-your-app/barmodifier-files.md)
+  * [BarModifier](community-apps/parts-of-your-app/barmodifier.md)
   * [Settings Menu](community-apps/parts-of-your-app/settings-menu.md)
 * [🏁 Compile & Share the App](community-apps/compile-and-share-the-app/README.md)
   * [README](community-apps/compile-and-share-the-app/readme.md)

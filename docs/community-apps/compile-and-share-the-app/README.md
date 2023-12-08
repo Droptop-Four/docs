@@ -6,7 +6,7 @@ Once you're happy with your app and ready to share it, go to `Droptop settings >
 
 Note: Before you do this, it's recommend making sure your Variables.inc and VariablesDefault.inc files contain the same variables, with `VariablesDefault.inc` having the default values for each variable.
 
-Go to or Join the Droptop Discord Server ([https://discord.gg/droptop-four-800124057923485728](https://discord.gg/droptop-four-800124057923485728)) and in any chat box type c`ommunity_app new_release` and press enter. The Discord Bot will prompt you to drag the app install file into thebox, then press `Enter`. A window will appear after a few seconds. Enter a short description for your app, your Github links if you have them, and continue.
+Go to the Droptop Discord Server ([https://discord.gg/droptop-four-800124057923485728](https://discord.gg/droptop-four-800124057923485728)) and in any chat box type /co`mmunity_app new_release` and press enter. The Discord Bot will prompt you to drag the app install file into the box, then press `Enter`. A window will appear after a few seconds. Enter a short description for your app, your Github links if you have them, and continue.
 
 Your app will then be uploaded to our Github, posted to the Droptop website, and a new thread for your app will be created in the [#🆕╏app-releases](https://discord.gg/droptop-four-800124057923485728) channel on Discord.
 
@@ -16,4 +16,4 @@ If you added more content to your app, or fixed a bug. Just use the `/community_
 
 ## Letting other people know you've updated your app
 
-_This is done automatically!_ When you update your app via the Discord Bot command, it'll automatically timestamp that update. When there is an update for Droptop available, the update notification gets pushed to all Droptop users connected to the internet. When the user opens the notification, it will also check to see if any Community Apps they have active have been updated between the time they last installed that app and the current date. Users can select "Download all updates" to automatically download the latest Droptop update and the update for all of their active Community Apps.
+_This is done automatically!_ When you update your app via the Discord Bot command, it'll automatically timestamp that update. The update notification gets pushed to all Droptop users connected to the internet. A green dot will then appear next to your app's icon in the Top Bar, and when right-clicked, an option will be available to download your app's latest update.

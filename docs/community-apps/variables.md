@@ -38,7 +38,7 @@ The value of this variable will add additional height to the dropdown menu to ac
 
 Can be used to return the folder name for your app (Eg. "`Sample_App-Cariboudjan`")\
 \
-You can also use `[##MyAppID#]` to return the app's current slot number (1 to 5).
+You can also use `[##MyAppID#]` to return the app's current slot number (1 to 10).
 
 {% hint style="info" %}
 This variable cannot be used in BackgroundProcesses.inc or BarModifier.
