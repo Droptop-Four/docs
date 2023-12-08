@@ -6,7 +6,7 @@ Right-click on your app and select `Options`. Here you will see your app's optio
 
 Generally, you should work on your settings menu last so you know exactly what you what options you want to be user-configurable (if any). But you can work on the Settings Menu at any point in your app's development.
 
-If you do not want to include any user-configurable options in your app, set `#NumberOfItems#` to 1 and set the value of `ItemText1` to `#SettingsNoAppOptions#` (eg. `ItemText1=#SettingsNoAppOptions#`) and remove the dividers if necessary as described in the [Broken link](broken-reference "mention") section of this tutorial.
+If you do not want to include any user-configurable options in your app, set `#NumberOfItems#` to 1 and set the value of `ItemText1` to `#SettingsNoAppOptions#` (eg. `ItemText1=#SettingsNoAppOptions#`) and remove the dividers if necessary as described in the [Dividers](dividers.md) section of this tutorial.
 
 ## Settings Menu Toggles
 
