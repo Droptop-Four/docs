@@ -19,7 +19,7 @@ If you don't know what editor to use, take a look at the [editor.md](../tips/edi
 ## Editing your new app
 
 1. Your new app will now appear in the bar. If you selected "WebView app" or "Droptop app" with "App has a dropdown menu" enabled, clicking on the app icon will open your app.
-2. Right-click twice (Double right-click) anywhere inside of your app to open a quick navigation box. Here you can access the essential files and folders that make-up your app. Select `Edit skin (Custom app.ini)`
+2. Right-click twice (Double right-click) anywhere inside of your app to open a quick navigation menu. Here you can access the essential files and folders that make-up your app. Select `Edit skin (Custom app.ini)`
 3. The code for your app's main dropdown menu will appear.
 
 ## Understanding the basics
