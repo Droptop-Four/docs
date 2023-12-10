@@ -49,7 +49,7 @@
 
 ## Make a Community Theme <a href="#community-themes" id="community-themes"></a>
 
-* [Coming soon](community-themes/coming-soon.md)
+* [Start making a theme](community-themes/start-making-a-theme.md)
 
 ## Tips and Tricks <a href="#tips" id="tips"></a>
 
