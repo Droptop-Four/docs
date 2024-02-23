@@ -20,7 +20,7 @@ coverY: 7
 
 ### [I want help making a Community App](broken-reference)
 
-### [I want help making a Community Theme](broken-reference) (coming soon)
+### [I want help making a Community Theme](broken-reference)
 
 ### [Some tips & Tricks](broken-reference)
 
