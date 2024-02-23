@@ -4,9 +4,9 @@
 
 ## Getting started
 
-* [⬇ Installation](getting-started/installation.md)
+* [⬇️ Installation](getting-started/installation.md)
 * [🔼 Updating](getting-started/updating.md)
-* [🗑 Uninstalling](getting-started/uninstalling.md)
+* [🗑️ Uninstalling](getting-started/uninstalling.md)
 
 ## Setting up
 
@@ -18,7 +18,7 @@
   * [Blur & shadows](setting-up/appearances/blur-and-shadows.md)
   * [Themes](setting-up/appearances/themes/README.md)
     * [See all community themes](https://www.droptopfour.com/community-themes/)
-* [↔ Behaviour](setting-up/behaviour/README.md)
+* [↔️ Behaviour](setting-up/behaviour/README.md)
   * [Showing mode](setting-up/behaviour/showing-mode.md)
   * [Menu options](setting-up/behaviour/menu-options.md)
   * [General folders options](setting-up/behaviour/general-folders-options/README.md)
@@ -37,7 +37,7 @@
 * [📖 Introduction](community-apps/introduction.md)
 * [✨ Start making a new app](community-apps/start-making-a-new-app.md)
 * [🔢 Variables](community-apps/variables.md)
-* [↕ How to Scale w/ Examples](community-apps/how-to-scale-w-examples.md)
+* [↕️ How to Scale w/ Examples](community-apps/how-to-scale-w-examples.md)
 * [⭐ Parts of your app](community-apps/parts-of-your-app/README.md)
   * [Dividers](community-apps/parts-of-your-app/dividers.md)
   * [Variables Files](community-apps/parts-of-your-app/variables-files.md)
@@ -53,7 +53,7 @@
 
 ## Tips and Tricks <a href="#tips" id="tips"></a>
 
-* [✍ Rainmeter editor](tips/editor.md)
+* [✍️ Rainmeter editor](tips/editor.md)
 
 ## Help & troubleshooting <a href="#help" id="help"></a>
 
