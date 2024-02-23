@@ -42,19 +42,7 @@ Note: Droptop's core (basic version) needs to be installed prior to applying the
 {% tab title="Solution" %}
 <mark style="color:yellow;">**Create your own substitution**</mark>
 
-1. To add your own substitution, with the app selected, click on the application's name in the Droptop bar
-2. In the dropdown menu, select "More options", then "Change app name".
-3. The file UserSettings.inc will open. In this file, find the variable `UserAppSubstitutions=`
-4. Select the end of this line. A template for a new app substitution has been added to your clipboard. Select the end of this line and paste (Ctrl + V)
-   * The end of the line would look like, for example: `,"Discord":"NEW-APP-NAME"`
-5. Replace `NEW-APP-NAME` with your application's new name.
-   * **Tip:** If the first character of the application's name is a lowercase letter (eg. iTunes), use a non-space character as the first letter in your substitution. For example: `,"iTunes","[\x200B]iTunes"`
-   * Tip: If the substitution doesn't work, try adding `(?is)` to the beginning of your app name to make the line case-insensitive. For example: `,"(?is)Explorer":"Finder"`
-
-{% hint style="info" %}
-Substitutions use RegEx..\
-Must be exact words and is case-sensitive
-{% endhint %}
+To rename a program name in Droptop, open that program. It's name will appear in the top-left corner of the Droptop bar. Click on it, go to `More Options >> Change app name`. Use the text box to set a new name, press enter when finished, and select "Set new name" to finish.
 {% endtab %}
 {% endtabs %}
 
@@ -133,7 +121,7 @@ Although Droptop uses very few resources when sitting idle in the background, yo
 {% tab title="Solution 1" %}
 <mark style="color:yellow;">**Install the latest version of WNPRedux for your players**</mark>
 
-* **Chrome**: [Chrome Web Store](https://chrome.google.com/webstore/detail/webnowplaying-redux/jfakgfcdgpghbbefmdfjkbdlibjgnbli)
+* **Chrome/Edge**: [Chrome Web Store](https://chrome.google.com/webstore/detail/webnowplaying-redux/jfakgfcdgpghbbefmdfjkbdlibjgnbli)
 * **Firefox**: [Mozilla Addon Store](https://addons.mozilla.org/en-US/firefox/addon/webnowplaying-redux)
 * **Desktop players**:  Works out of the box
 
