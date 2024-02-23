@@ -2,7 +2,7 @@
 description: How to install Droptop Four
 ---
 
-# ⬇ Installation
+# ⬇️ Installation
 
 ## Requirements
 
@@ -27,6 +27,7 @@ You can support the developers of Droptop Four by purchasing the Supporter versi
 
 * 18 additional themes not available in the Basic version
 * 6 additional fully-customizable dropdown folders
+* 5 additional slots for Community Apps
 * 293 additional home button icons (full-color and black & white)
 
 You can purchase the Supporter version through [Gumroad](https://gumroad.com/l/droptop) with a suggested purchase price of $6. Droptop operates on a pay-what-you-want model.&#x20;
