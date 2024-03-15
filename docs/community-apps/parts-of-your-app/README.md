@@ -20,20 +20,24 @@ All 10 submenus share any meters or measures that are contained within `FolderCo
 
 Icons for each submenu are located in the `Folder\Icons\` folder, with each numbered folder representing each `Folder1.ini` to `Folder10.ini` submenu respectively. Inside each Icons folder are `1Icon.png` to `10Icon.png`, representing the icon for each item in that specific submenu.
 
-**Note:** All icons should be white (255,255,255 or FFFFFF) in color and be 32x32 sized .png images.
+**Note:** All icons should be white (255,255,255 or FFFFFF) in color and be `32x32` sized .png images.
+
+## Dividers
+
+For mor informations about Dividers, see the [dividers.md](dividers.md "mention") section of this tutorial.
 
 ## Variables
 
-For more information about Variables, see the **Variables Files** section of this tutorial.
+For more informations about Variables, see the [variables-files.md](variables-files.md "mention") section of this tutorial.
 
 ## Background Processes
 
-For more information about Variables, see the **Background Processes** section of this tutorial.
+For more informations about Background Processes, see the [background-processes.md](background-processes.md "mention") section of this tutorial.
+
+## BarModifier
+
+For more informations about BarModifier, see the [barmodifier.md](barmodifier.md "mention") section of this tutorial.
 
 ## Settings menu
 
-For more information about Variables, see the **Settings Menu** section of this tutorial.
-
-## Other parts
-
-For more information about Variables, see the **Other Parts** section of this tutorial.
+For more informations about the Settings menu, see the [settings-menu.md](settings-menu.md "mention") section of this tutorial.

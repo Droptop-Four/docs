@@ -49,7 +49,9 @@
 
 ## Make a Community Theme <a href="#community-themes" id="community-themes"></a>
 
-* [Start making a theme](community-themes/start-making-a-theme.md)
+* [📖 Introduction](community-themes/introduction.md)
+* [✨ Start making a new theme](community-themes/start-making-a-new-theme.md)
+* [🏁 Compile & Share the Theme](community-themes/compile-and-share-the-theme.md)
 
 ## Tips and Tricks <a href="#tips" id="tips"></a>
 

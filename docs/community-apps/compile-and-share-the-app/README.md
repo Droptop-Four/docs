@@ -4,11 +4,13 @@
 
 Once you're happy with your app and ready to share it, go to `Droptop settings >> Community apps >> Share creation` and select your app. An installer for your app will be generated and after a few seconds, the containing folder will open on your screen.&#x20;
 
-Note: Before you do this, it's recommend making sure your Variables.inc and VariablesDefault.inc files contain the same variables, with `VariablesDefault.inc` having the default values for each variable.
+{% hint style="info" %}
+Before you do this, it's recommend making sure your Variables.inc and VariablesDefault.inc files contain the same variables, with `VariablesDefault.inc` having the default values for each variable.
+{% endhint %}
 
-Go to the Droptop Discord Server ([https://discord.gg/droptop-four-800124057923485728](https://discord.gg/droptop-four-800124057923485728)) and in any chat box type /co`mmunity_app new_release` and press enter. The Discord Bot will prompt you to drag the app install file into the box, then press `Enter`. A window will appear after a few seconds. Enter a short description for your app, your Github links if you have them, and continue.
+Go to the Droptop Discord Server ([https://discord.gg/droptop-four-800124057923485728](https://discord.gg/droptop-four-800124057923485728)) and in any chat box type `/community_app new_release` and press enter. The Discord Bot will prompt you to drag the app install file into the box, then press `Enter`. A window will appear after a few seconds. Enter a short description for your app, your Github links if you have them, and continue.
 
-Your app will then be uploaded to our Github, posted to the Droptop website, and a new thread for your app will be created in the [#🆕╏app-releases](https://discord.gg/droptop-four-800124057923485728) channel on Discord.
+Your app will then be uploaded to our Github, posted to the [Droptop website](https://droptopfour.com/community-apps), and a new thread for your app will be created in the [#🆕╏app-releases](https://discord.gg/droptop-four-800124057923485728) channel on Discord.
 
 ## Releasing an update for your app
 

@@ -14,15 +14,13 @@ If you have the Basic version you'll be able to use only 4 themes, with the Supp
 
 {% tabs %}
 {% tab title="Basic version" %}
-<figure><img src="../../../.gitbook/assets/ThemesB.png" alt=""><figcaption><p>Unlocked and locked themes for the Basic version</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ThemesB.png" alt=""><figcaption><p>Available themes for the Basic version</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Supporter version" %}
 <figure><img src="../../../.gitbook/assets/ThemesS.png" alt=""><figcaption><p>All the themes are unlocked with the Supporter version</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
 
 ## Community themes
 
@@ -31,8 +29,6 @@ Everyone in the droptop community can also create it's personalized themes, and 
 The list of all the community themes is on the website:
 
 {% embed url="https://www.droptopfour.com/community-themes/" %}
-
-
 
 ## Create your community theme
 

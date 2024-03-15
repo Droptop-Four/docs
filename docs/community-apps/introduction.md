@@ -1,3 +1,7 @@
+---
+description: How to create a Community App
+---
+
 # 📖 Introduction
 
 {% hint style="warning" %}
@@ -6,11 +10,11 @@
 
 ## What is a Community App?
 
-Users of Droptop can install Community Apps, small applications made by other Droptop users that enable some additional feature, shortcut, website, information monitoring, or other functionality. These can be tailor made just for your own use, or made to share with other users.
+Users of Droptop can install Community Apps, small applications made by other Droptop users that enable some additional feature, shortcut, websites, information monitoring, or other functionality. These can be tailor made just for your own use, or made to share with other users.
 
 ## What can a Community App do?
 
-A Community App can do anything that is possible with Rainmeter, including but not limited to, launching an application, URL, conveying system information such as hard drive space, network speed, parse and display data from the internet including weather information, server status, or even display a webpage, etc.\
+A Community App can do anything that is possible with Rainmeter, including but not limited to, launching an application or URL, conveying system information such as hard drive space, network speed, parse and display data from the internet including weather information, server status, or even display a webpage, etc.\
 \
 Currently Droptop has Community Apps that can display your VPN status and IP location, music playback controls, play YouTube videos, your online music library, display the top stories on a news site, or launch games on your PC with cover art images.
 

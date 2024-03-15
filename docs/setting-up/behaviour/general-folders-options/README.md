@@ -14,12 +14,6 @@ You can choose between:
 * Open file or folder properties
 * Do nothing
 
-## Show extra buttons in folders
-
-You can chose to show extra buttons in the bottom part of any folder that lets you open the folder with explorer and refresh to load new items. To toggle this option go to `Droptop settings >> Options >> Menu options >> Show extra buttons in folders`.
-
-<figure><img src="../../../.gitbook/assets/FolderButtons.png" alt=""><figcaption><p>Focused open with explorer button</p></figcaption></figure>
-
 ## Show start button
 
 If you want to show on the droptop bar a button to show the Windows Start menu, you can enable the option by right clicking on any folder you have enabled on the bar and toggle the `Show Start button` option.

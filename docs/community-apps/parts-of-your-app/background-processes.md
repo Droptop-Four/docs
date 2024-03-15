@@ -10,7 +10,7 @@ Any measures that are created in this file will run inside of Droptop's `Backgro
 
 The below example is used with the Recycle Bin app, created by Phan. Here, the `[PhanRecycleSize]` measure updates every 30 seconds (`UpdateDivider=30`), and checks the current size of the recycle bin. Depending on its size, it uses the !SetOption bang to dynamically adjust the Recycle Bin app's icon in the Top Bar.\
 \
-Notice that at the end of each `!SetOption` bang we include `"Droptop\DropdownBar"` to tell the bang which config we are sending this command to. If this parameter is not included, it will assume you are referring to the same config the bang exists in (Droptop\Other\BackgroundProcesses).
+Notice that at the end of each `!SetOption` bang we include `"Droptop\DropdownBar"` to tell the bang which config we are sending this command to. If this parameter is not included, it will assume you are referring to the same config the bang exists in (`Droptop\Other\BackgroundProcesses`).
 
 ```ini
 [Rainmeter]

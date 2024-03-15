@@ -40,55 +40,55 @@ Can be used to return the folder name for your app (Eg. "`Sample_App-Cariboudjan
 \
 You can also use `[##MyAppID#]` to return the app's current slot number (1 to 10).
 
-{% hint style="info" %}
-This variable cannot be used in BackgroundProcesses.inc or BarModifier.
+{% hint style="warning" %}
+This variable cannot be used in `BackgroundProcesses.inc` or `BarModifier.inc`
 {% endhint %}
 
 ## <mark style="color:yellow;">#MyAppName#</mark>
 
 Can be used to return the formatted name of your app (Eg. "`Sample App`")
 
-{% hint style="info" %}
-This variable cannot be used in BackgroundProcesses.inc or BarModifier.
+{% hint style="warning" %}
+This variable cannot be used in `BackgroundProcesses.inc` or `BarModifier.inc`
 {% endhint %}
 
 ## <mark style="color:yellow;">#MyAppAuthor#</mark>
 
 Can be used to return the formatted name of the author (Eg. "`Cariboudjan`")
 
-{% hint style="info" %}
-This variable cannot be used in BackgroundProcesses.inc or BarModifier.
+{% hint style="warning" %}
+This variable cannot be used in `BackgroundProcesses.inc` or `BarModifier.inc`
 {% endhint %}
 
 ## <mark style="color:yellow;">#MyVariablesLoc#</mark>
 
 Can be used to return the location of the Variables.inc file (Eg. "`C:\Users\%USERNAME%\Documents\Rainmeter\Skins\Droptop Community Apps\Apps\Sample_App-Cariboudjan\Variables\Variables.inc`")
 
-{% hint style="info" %}
-This variable cannot be used in BackgroundProcesses.inc or BarModifier.
+{% hint style="warning" %}
+This variable cannot be used in `BackgroundProcesses.inc` or `BarModifier.inc`
 {% endhint %}
 
 ## <mark style="color:yellow;">**\[#CustomAppInstallDate\[##MyAppID#]]**</mark>
 
 Returns the date the app was installed on the user's PC in `YY.MMDD` format.
 
-{% hint style="info" %}
-This variable cannot be used in BackgroundProcesses.inc or BarModifier.
+{% hint style="warning" %}
+This variable cannot be used in `BackgroundProcesses.inc` or `BarModifier.inc`
 {% endhint %}
 
 ## <mark style="color:yellow;">#DroptopSize#</mark>
 
-Returns the current scale multiplier of Droptop, from 0.8 (80%) to 2.5 (250%). More information on #DroptopSize# can be found in the "How to Scale w/ Examples" section of this tutorial.
+Returns the current scale multiplier of Droptop, from 0.8 (80%) to 2.5 (250%). More information on `#DroptopSize#` can be found in the "How to Scale w/ Examples" section of this tutorial.
 
 ## <mark style="color:yellow;">#DropdownMenuWidth#</mark>
 
-Will return the current width of the app or submenu. You can also use \[#CURRENTCONFIGWIDTH]. This variable does not need to be scaled with #DroptopSize#.
+Will return the current width of the app or submenu. You can also use `[#CURRENTCONFIGWIDTH]`. This variable does not need to be scaled with `#DroptopSize#`.
 
 Add `DropdownMenuWidth=(999*#DroptopSize#)` to the `[Variables]` section of any of your menus to set any specific width. By default, your app's width is determined by the current theme the user has enabled.
 
 ## <mark style="color:yellow;">#DropdownItemHeight#</mark>
 
-Will return the height of a single item in a dropdown or submenu. This variable does not need to be scaled with #DroptopSize#.
+Will return the height of a single item in a dropdown or submenu. This variable does not need to be scaled with `#DroptopSize#`.
 
 By default, your app's item height is determined by the current theme the user has enabled.
 

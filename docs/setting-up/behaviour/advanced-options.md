@@ -25,3 +25,11 @@ If you have problems with scaling between droptop and other Rainmeter skins, try
 ## Touchscreen mode
 
 `Droptop settings >> Options >> Advanced >> Touchscreen mode` allows an easier navigation when using fingers as input instead of a mouse cursor.
+
+## Disable hover actions
+
+`Droptop settings >> Options >> Advanced >> Disable hover actions` allows you disable action performed while hovering on droptop components, for example to disable the automatic opening of submenus when hovering the mouse on them.
+
+## Disable notifications
+
+`Droptop settings >> Options >> Advanced >> Disable notifications` lets you disables all text notifications (Including song info) in the top bar.

@@ -10,6 +10,10 @@ In every color setting you'll find 3 sliders to adjust the RGB (Red, Green, Blue
 
 <figure><img src="../../.gitbook/assets/Colors.png" alt=""><figcaption><p>Color settings</p></figcaption></figure>
 
+If you want to reset the colors, just press the `Reset` button at the end of the menu.
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## Top bar background
 
 This color is the background of the bar.&#x20;
