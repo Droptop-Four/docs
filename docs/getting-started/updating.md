@@ -8,7 +8,7 @@ description: How to update Droptop Four
 
 When an update is available for Droptop, a green notification icon will automatically appear in the top bar on all PCs connected to the internet.
 
-<figure><img src="../.gitbook/assets/UpdateApp.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_28.png" alt=""><figcaption></figcaption></figure>
 
 After the download is finished, launch the `.rmskin` install file to complete the update.
 
