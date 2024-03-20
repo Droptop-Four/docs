@@ -4,6 +4,13 @@ description: Find the most frequently asked questions for Droptop
 
 # ❓ FAQs
 
+{% hint style="danger" %}
+## We value your feedback!
+
+If you cannot find what you were looking for, or there is something wrong about this page, please let us know!\
+Drop us an email at [support@droptopfour.com](mailto:support@droptopfour.com) or send us a message in our [Discord server](https://discord.droptopfour.com)!
+{% endhint %}
+
 ## I paid for the Supporter Version, but lost it.
 
 <mark style="color:yellow;">**Problem:**</mark> Need to restore Supporter Version purchase.
