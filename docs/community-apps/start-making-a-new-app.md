@@ -25,7 +25,7 @@ A `Droptop app` is  for creating an app using Rainmeter code, and can either be 
 7. Select `Generate app` when ready.
 {% endtab %}
 
-{% tab title="Webview App" %}
+{% tab title="WebView App" %}
 A `WebView app` is for displaying a web page of your choice in a dropdown menu. This can already exists or you can create your own with some html & css!
 
 1. Start off by going `Droptop settings >> Community apps >> Create new app`
