@@ -18,4 +18,9 @@
 
 ## 🔗 Droptop API
 
-* [Endpoints](droptop-api/endpoints.md)
+* [Endpoints](droptop-api/endpoints/README.md)
+  * [Changelog endpoints](droptop-api/endpoints/changelog-endpoints.md)
+  * [Community Apps endpoints](droptop-api/endpoints/community-apps-endpoints.md)
+  * [Community Themes endpoints](droptop-api/endpoints/community-themes-endpoints.md)
+  * [Droptop endpoints](droptop-api/endpoints/droptop-endpoints.md)
+  * [Version endpoints](droptop-api/endpoints/version-endpoints.md)
