@@ -23,4 +23,3 @@
   * [Community Apps endpoints](droptop-api/endpoints/community-apps-endpoints.md)
   * [Community Themes endpoints](droptop-api/endpoints/community-themes-endpoints.md)
   * [Droptop endpoints](droptop-api/endpoints/droptop-endpoints.md)
-  * [Version endpoints](droptop-api/endpoints/version-endpoints.md)
