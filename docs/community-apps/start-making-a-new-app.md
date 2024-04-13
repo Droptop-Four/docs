@@ -42,6 +42,8 @@ A `WebView app` is for displaying a web page of your choice in a dropdown menu. 
 1. Your new app will now appear in the bar. If you selected `WebView app` or `Droptop app` with `App has a dropdown menu` enabled, clicking on the app icon will open your app.
 2. Right-click twice (Double right-click) anywhere inside of your app to open a quick navigation menu. Here you can access the essential files and folders that make-up your app. Select `Edit skin (Custom app.ini)`
 3. The code for your app's main dropdown menu will appear.
+4. If you're making a WebView app, go to the Variables\VariablesData.inc file in your app folder to change the website(s), with WebViewURL1= being the default website.&#x20;
+5. See the [Variables](variables.md) section.&#x20;
 
 ## Understanding the basics
 
