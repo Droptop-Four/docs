@@ -8,7 +8,7 @@ If you don't know what editor to use, take a look at the [editor.md](../tips/edi
 
 You can create 2 types of community apps:\
 \
-The `Droptop App` option is recommended if you intend for your app to read local files on the PC, or display any system information, like volume control or CPU usage. A `WebView App` is recommended for displaying websites.
+The `Droptop App` option is recommended if you intend for your app to read local files on the PC, control your PC's settings, open a file/folder, or display any system information, like volume control or CPU usage. A `WebView App` is recommended for displaying content from the web.
 
 {% tabs %}
 {% tab title="Droptop App" %}
