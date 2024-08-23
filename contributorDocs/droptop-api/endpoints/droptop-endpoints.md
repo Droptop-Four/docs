@@ -4,6 +4,10 @@ description: About Droptop
 
 # Droptop endpoints
 
+{% swagger src="../../.gitbook/assets/spec.yaml" path="/droptop" method="get" %}
+[spec.yaml](../../.gitbook/assets/spec.yaml)
+{% endswagger %}
+
 {% swagger src="../../.gitbook/assets/spec.yaml" path="/announcements" method="get" %}
 [spec.yaml](../../.gitbook/assets/spec.yaml)
 {% endswagger %}
