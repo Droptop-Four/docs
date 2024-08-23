@@ -24,7 +24,7 @@ Icons for each submenu are located in the `Folder\Icons\` folder, with each numb
 
 ## Dividers
 
-For mor informations about Dividers, see the [dividers.md](dividers.md "mention") section of this tutorial.
+For mor informations about Dividers, see the [Broken link](broken-reference "mention") section of this tutorial.
 
 ## Variables
 

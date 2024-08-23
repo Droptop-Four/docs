@@ -39,7 +39,6 @@
 * [🔢 Variables](community-apps/variables.md)
 * [↕️ How to Scale w/ Examples](community-apps/how-to-scale-w-examples.md)
 * [⭐ Parts of your app](community-apps/parts-of-your-app/README.md)
-  * [Dividers](community-apps/parts-of-your-app/dividers.md)
   * [Variables Files](community-apps/parts-of-your-app/variables-files.md)
   * [Background Processes](community-apps/parts-of-your-app/background-processes.md)
   * [BarModifier](community-apps/parts-of-your-app/barmodifier.md)
